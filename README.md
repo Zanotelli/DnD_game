@@ -1,2 +1,2 @@
 # DnD_game
-Jogo teste isométrico
+ Isometric RPG game
